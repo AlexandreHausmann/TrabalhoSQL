@@ -1,0 +1,34 @@
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.deps.json
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.runtimeconfig.json
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\ref\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.pdb
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Domain.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Domain.pdb
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.AssemblyInfo.cs
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.CopyComplete
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\ref\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.pdb
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.genruntimeconfig.cache
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.deps.json
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.runtimeconfig.json
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.dll
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.pdb
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Domain.dll
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Domain.pdb
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.AssemblyInfo.cs
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.CopyComplete
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.dll
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\refint\CadastroUsuario.Infrastructure.dll
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.pdb
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.genruntimeconfig.cache
+C:\Users\xande\OneDrive\Área de Trabalho\Nova pasta\sqlite_aula_senac\CadastroUsuario.Infrastructure\obj\Debug\net6.0\ref\CadastroUsuario.Infrastructure.dll
